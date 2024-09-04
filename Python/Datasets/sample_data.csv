@@ -1,0 +1,11 @@
+SNo,EmpID,EmpName,Dept,Exp,Salary
+1,101,John,Sales,4,85000
+2,102,Wilson,Sales,5,68000
+3,103,Samuel,Sales,3,48000
+4,104,Lina,IT,6,105000
+5,105,Bob,IT,9,120000
+6,106,Tina,IT,2,50000
+7,107,Mac,Admin,8,72000
+8,108,Wiley,Admin,5,55000
+9,109,Rose,HR,6,75000
+10,110,Kia,HR,3,45000
