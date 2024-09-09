@@ -1,0 +1,10 @@
+Permissible Datatype Conversions: 
+
+1. Integer --> Float and vice versa permissible, but decimal values will get truncated when converting float to integer. 
+2. Float --> Double and vice versa permissible, but pay attention to the max size which float can handle. 
+3. Integer, Float, Double --> Varchar permissible. 	
+4. Varchar --> Integer, Float, Double permissible only when numbers exist and no characters are present. 
+5. Varchar --> Text and vice versa permissible but conversion for text to varchar must satisfy the max size of varchar.
+
+float --> 4bytes --> 7 decimal places --> 6.8765432
+double --> 8 bytes --> 14 decimal places --> 6.87654321
