@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ea671c2c-6e91-4dfa-8cad-81ab5cacf10a=x400)
+![image](https://github.com/user-attachments/assets/ea671c2c-6e91-4dfa-8cad-81ab5cacf10a){width=50%}
 
 'Employee Attrition.csv'
 ========================
