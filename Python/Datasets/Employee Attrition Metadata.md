@@ -13,8 +13,8 @@ Categorical values and their meaning
 
 | Value | Education | EnvironmentSatisfaction | JobInvolvement | JobSatisfaction | PerformanceRating | RelationshipSatisfaction | WorkLifeBalance |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
-| 1 | 1 'Below College'    | 1 'Low' | 1 'Low' | 1 'Low' | 1 'Low' | 1 'Low' | 1 'Bad' |
-| 2 | 2 'College'  | 2 'Medium' | 2 'Medium' | 2 'Medium' | 2 'Good' | 2 'Medium' | 2 'Good' |
-| 3 | 3 'Bachelor' | 3 'High' | 3 'High' | 3 'High' | 3 'Excellent' | 3 'High' | 3 'Better' |
-| 4 | 4 'Master' | 4 'Very High' | 4 'Very High' | 4 'Very High' | 4 'Outstanding' | 4 'Very High' | 4 'Best' |
-|5 | 5 'Doctor' | NA | NA | NA | NA | NA | NA | 
+| 1 | 'Below College'    | 'Low' | 'Low' | 'Low' | 'Low' | 'Low' | 'Bad' |
+| 2 | 'College'  | 'Medium' | 'Medium' | 'Medium' | 'Good' | 'Medium' | 'Good' |
+| 3 | 'Bachelor' | 'High' | 'High' | 'High' | 'Excellent' | 'High' | 'Better' |
+| 4 | 'Master' | 'Very High' | 'Very High' | 'Very High' | 'Outstanding' | 'Very High' | 'Best' |
+| 5 | 'Doctor' | NA | NA | NA | NA | NA | NA | 
