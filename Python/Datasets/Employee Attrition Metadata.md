@@ -1,11 +1,11 @@
 ### 'Employee Attrition.csv' --> Categories and their meaning
 
 #### Education
-. ##### 1 'Below College'
-. ##### 2 'College'
-. ##### 3 'Bachelor'
-. ##### 4 'Master'
-. ##### 5 'Doctor'
+.##### 1 'Below College'
+.##### 2 'College'
+.##### 3 'Bachelor'
+.##### 4 'Master'
+.##### 5 'Doctor'
 
 #### EnvironmentSatisfaction
 ##### 1 'Low'
