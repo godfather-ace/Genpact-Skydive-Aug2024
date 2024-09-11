@@ -1,6 +1,7 @@
 ### 'Employee Attrition.csv' --> Categories and their meaning
 
-| Education | EnvironmentSatisfaction | JobInvolvement | JobSatisfaction | PerformanceRating | RelationshipSatisfaction | WorkLifeBalance
+| Education | EnvironmentSatisfaction | JobInvolvement | JobSatisfaction | PerformanceRating | RelationshipSatisfaction | WorkLifeBalance |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 1 'Below College' | 1 'Low' | 1 'Low' | 1 'Low' | 1 'Low' | 1 'Low' | 1 'Bad; |
 | 2 'College' | 2 'Medium' | 2 'Medium' | 2 'Medium' | 2 'Good' | 2 'Medium' | 2 'Good' |
 | 3 'Bachelor' | 3 'High' | 3 'High' | 3 'High' | 3 'Excellent' | 3 'High' | 3 'Better' |
