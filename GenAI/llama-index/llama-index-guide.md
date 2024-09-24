@@ -11,7 +11,7 @@ Understanding Llama-Index
 
     LlamaIndex boasts around 35.6k stars on GitHub with more than 1200 contributors as of Sep’24. 
 
-    <p style="text-align: center"><img src="images/star-history-llamaindex.png" width = "600" height = "400"></p><p style="text-align: center"><em>LlamaIndex Github Stars</em></p>
+        <p style="text-align: center"><img src="images/star-history-llamaindex.png" width = "600" height = "400"></p><p style="text-align: center"><em>LlamaIndex Github Stars</em></p>
 
 ---
 
@@ -26,7 +26,7 @@ Understanding Llama-Index
     - <b> Integration Mechanisms:</b> LlamaIndex offers seamless integration with various application frameworks, enabling developers to incorporate advanced natural language abilities into their projects without extensive programming knowledge.
 
 
-<p style="text-align: center"><img src="images/working_of_llama_index.gif" width = "650" height = "350"></p><p style="text-align: center"><em>Working of Llama-Index</em></p>
+        <p style="text-align: center"><img src="images/working_of_llama_index.gif" width = "650" height = "350"></p><p style="text-align: center"><em>Working of Llama-Index</em></p>
 
 3. ### Core Elements of LlamaIndex
 
