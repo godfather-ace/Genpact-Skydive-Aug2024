@@ -11,3 +11,9 @@ Presentation Links
 - [Prompt Patterns and Advanced Techniques](https://www.canva.com/design/DAGRqcu4nqI/fjcKuDwB3l3BIeBgpo95lA/edit?utm_content=DAGRqcu4nqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - [RAG and Vector DBs](https://www.canva.com/design/DAGRqaIiL0g/MhtpiaspEZiudhCXyK4WQA/edit?utm_content=DAGRqaIiL0g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- [LLM Finetuning](https://www.canva.com/design/DAGTEqeqnsQ/C01iEcsBigf_oGUj4qrOhQ/edit?utm_content=DAGTEqeqnsQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  
+- [LLM Quantization, Evaluation and Deployment](https://www.canva.com/design/DAGTEg2uTAo/af1V4ElHpDDhjr4jbSAUag/edit?utm_content=DAGTEg2uTAo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
